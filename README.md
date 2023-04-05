@@ -6,10 +6,10 @@
 ## Hi 👋, I'm Leonardo Dias!
 
 - I'm working at Cartão Elo 
-- Responsible for Chapter of Software Quality Assurance
+- Responsible for Center of Excelence in Software Quality Assurance
 - 🌐 Visit my for complete background and contact.
-- 👋 My personal [blog](https://pr2tik1.github.io/blog/)
-- ✍️ [Medium Profile](https://pr2tik1.medium.com/)
+- 👋 My personal [blog](https://about.me/leonardoodias)
+- ✍️ [Medium Profile](https://medium.com/@leonardodias)
 
 Hub Stats
 ---
