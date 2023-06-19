@@ -7,7 +7,7 @@
 
 - I'm working at Cartão Elo 
 - Responsible for Center of Excelence in Software Quality Assurance
-- 🌐 Visit my for complete background and contact.
+- 🌐 Visit my social networking for complete background and contact.
 - 👋 My personal [blog](https://about.me/leonardoodias)
 - ✍️ [Medium Profile](https://medium.com/@leonardodias)
 
