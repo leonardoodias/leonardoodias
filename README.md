@@ -14,7 +14,6 @@
 - ✍️ [Medium Profile](https://medium.com/@leonardodias)
 
 ## Hub Stats
----
 [![iuricode](https://github-readme-stats.vercel.app/api?username=leonardoodias&theme=dark)](https://github.com/leonardoodias/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoodias&hide=html&layout=compact&theme=dark)](https://github.com/leonardoodias/github-readme-stats)
 
