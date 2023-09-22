@@ -1,9 +1,11 @@
 
  1.17 KB
 
-<a href="https://twitter.com/leonardoodias" target="_blank" rel="nofollow"><img align="right" alt="Leonardo' Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://linkedin.com/in/ledias" target="_blank" rel="nofollow"><img align="right" alt="Leonardo Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/leonardoodias" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://twitter.com/leonardoodias" target="_blank" rel="nofollow"><img align="right" alt="Leonardo' Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://linkedin.com/in/ledias" target="_blank" rel="nofollow"><img align="right" alt="Leonardo Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/leonardoodias" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-## Hi 👋, I'm Leonardo Dias!
+### Hi 👋, I'm Leonardo Dias!
 
 - I'm working at Cartão Elo 
 - Responsible for Center of Excelence in Software Quality Assurance
@@ -11,13 +13,8 @@
 - 👋 My personal [blog](https://about.me/leonardoodias)
 - ✍️ [Medium Profile](https://medium.com/@leonardodias)
 
-Hub Stats
+## Hub Stats
 ---
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=leonardoodias&show_icons=true&theme=dark"&include_all_commits=true&count_private=true"/ width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=leonardoodias&theme=dark&hide_border=true" width = 400>
-</p>
+[![iuricode](https://github-readme-stats.vercel.app/api?username=leonardoodias&theme=dark)](https://github.com/leonardoodias/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoodias&hide=html&layout=compact&theme=dark)](https://github.com/leonardoodias/github-readme-stats)
 
-<div align="center">
-  <a href="https://github.com/leonardoodias">
-</div>
