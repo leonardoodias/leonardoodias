@@ -11,7 +11,7 @@
 - Responsável pelo **Centro de Excelência em Qualidade de Software**
 - 🌐 Visite minhas redes sociais para obter informações detalhadas e formas de contato.
 - 👋 Meu [blog pessoal](https://about.me/leonardoodias)
-- ✍️ [Perfil no Medium](https://medium.com/@leonardodias)
+- ✍️ Meu [Perfil no Medium](https://medium.com/@leonardodias)
 
 ## Hub Stats
 [![iuricode](https://github-readme-stats.vercel.app/api?username=leonardoodias&theme=dark)](https://github.com/leonardoodias/github-readme-stats)
