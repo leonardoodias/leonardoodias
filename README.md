@@ -7,10 +7,8 @@
 
 #### Olá 👋, Eu sou Leonardo Dias!
 
-- Atualmente trabalhando na **Cartão Elo**, A maior bandeira Brasileira - [Saiba mais sobre a Elo](https://www.elo.com.br)
-- Responsável pelo **Centro de Excelência em Qualidade de Software**
+- Liderança TI | Estruturação de Times | Engenharia e Qualidade de Software | Governança de TI
 - 🌐 Visite minhas redes sociais para obter informações detalhadas e formas de contato.
-- 👋 Meu [blog pessoal](https://about.me/leonardoodias)
 - ✍️ Meu [Medium](https://medium.com/@leonardodias)
 
 ## Hub Stats
