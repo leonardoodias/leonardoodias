@@ -8,6 +8,7 @@
 #### Olá 👋, Eu sou Leonardo Dias!
 
 - Liderança TI | Estruturação de Times | Engenharia e Qualidade de Software | Governança de TI
+- Com uma sólida trajetória no setor de tecnologia e engenharia de software, sou um profissional comprometido e orientado para resultados. Ao longo dos anos, desenvolvi habilidades de liderança e gestão, demonstrando expertise em reestruturação, implementação de práticas ágeis, e aprimoramento de processos de qualidade de software.
 - 🌐 Visite minhas redes sociais para obter informações detalhadas e formas de contato.
 - ✍️ Meu [Medium](https://medium.com/@leonardodias)
 
